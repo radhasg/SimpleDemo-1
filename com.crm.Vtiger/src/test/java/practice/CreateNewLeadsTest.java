@@ -4,7 +4,7 @@ public class CreateNewLeadsTest {
 	@Test
 	public void createNewLeads() {
 		System.out.println("created leads");
-		System.out.println("Vaibhav cretes leads");
+		System.out.println("Vaibhav creates leads");
 		
 		
 		
