@@ -9,16 +9,7 @@ public class CreateNewContactsTest {
 		
 		System.out.println("Vaibhav created dimigimi");
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 		
 		
 		

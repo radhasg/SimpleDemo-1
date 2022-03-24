@@ -10,6 +10,26 @@ public class CreateNewOrgTest {
 	@Test
 	public void createNewOrgWithIndustry() {
 		System.out.println("createNewOrgWithIndustry");	
+		System.out.println("gygyugyuhyihhytrdrtuhyigvgtdygighyf6y8ihujg");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 		
