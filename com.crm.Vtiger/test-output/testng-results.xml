@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-23T13:12:25 IST" name="Default suite" finished-at="2022-03-23T13:12:49 IST" duration-ms="24370">
+  <suite started-at="2022-03-23T17:42:52 IST" name="Default suite" finished-at="2022-03-23T17:43:31 IST" duration-ms="39220">
     <groups>
     </groups>
-    <test started-at="2022-03-23T13:12:25 IST" name="Default test" finished-at="2022-03-23T13:12:49 IST" duration-ms="24370">
+    <test started-at="2022-03-23T17:42:52 IST" name="Default test" finished-at="2022-03-23T17:43:31 IST" duration-ms="39220">
       <class name="practice.ParameterTest">
-        <test-method signature="myCredentials()[pri:0, instance:practice.ParameterTest@4a7f959b]" started-at="2022-03-23T13:12:25 IST" name="myCredentials" finished-at="2022-03-23T13:12:49 IST" duration-ms="24314" status="PASS">
+        <test-method signature="myCredentials()[pri:0, instance:practice.ParameterTest@4a7f959b]" started-at="2022-03-23T17:42:52 IST" name="myCredentials" finished-at="2022-03-23T17:43:31 IST" duration-ms="39175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myCredentials -->
